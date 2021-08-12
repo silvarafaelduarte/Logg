@@ -1,0 +1,18 @@
+{
+  "dataServiceGeneratorVersion": "0.9.0",
+  "appInfo": {
+    "name": "Logg",
+    "description": "",
+    "version": "iej1k7fs",
+    "id": "cks7qsqah12672641bs6009k2tsf",
+    "url": "https://app.amplication.com/cks7qsqah12672641bs6009k2tsf",
+    "settings": {
+      "dbHost": "localhost",
+      "dbName": "",
+      "dbPassword": "admin",
+      "dbPort": 5432,
+      "dbUser": "admin",
+      "appId": "cks7qsqah12672641bs6009k2tsf"
+    }
+  }
+}
